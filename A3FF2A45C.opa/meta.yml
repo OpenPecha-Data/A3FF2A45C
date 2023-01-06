@@ -1,0 +1,19 @@
+id: A3FF2A45C
+title: Brief Sur Offering
+type: translation
+pechas:
+- IC890E997
+- I4ABBC94F
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:48:42.606436
+  last_modified_at: 2023-01-04 11:48:42.606442
+  collections:
+  - Dudjom Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IC890E997/1CA4: ADBC
+  I4ABBC94F/C131: ADBC
